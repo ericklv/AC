@@ -46,7 +46,7 @@ export const xor = (a, b) => {
     else {
         for (let i = 0; i < a.length; i++) output += a[i] ^ b[i]
         return output
-    }no 
+    }
 }
 
 export const string_to_binx = string => {
